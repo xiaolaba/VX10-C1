@@ -2,6 +2,10 @@
 micro switch, CMOS 4013 flip flop exp  
 ![VX10-C1_4013_test.mp4](VX10-C1_4013_test.mp4)   
 
+
+![VX10-C1_MC14013_schematic.JPG](VX10-C1_MC14013_schematic.JPG)    
+
+
 ![VX10-C1.jpg](VX10-C1.jpg)  
 
 ![VX10-C1_datasheet.jpg](VX10-C1_datasheet.jpg)  
